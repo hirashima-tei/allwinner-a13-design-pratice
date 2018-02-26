@@ -32,6 +32,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:a13-design-pratice
+LIBS:a13-design-pratice-cache
 EELAYER 25 0
 EELAYER END
 $Descr A3 11693 16535 portrait
@@ -88,6 +89,17 @@ F 1 "SY8009A" H 8100 11150 60  0000 C CNN
 F 2 "" H 8000 11150 60  0001 C CNN
 F 3 "" H 8000 11150 60  0001 C CNN
 	1    8150 10850
+	1    0    0    -1  
+$EndComp
+$Comp
+L MCP130 U?
+U 1 1 5A93D2B9
+P 8150 11800
+F 0 "U?" H 7900 12000 60  0000 C CNN
+F 1 "MCP130" H 8300 12000 60  0000 C CNN
+F 2 "" H 7950 12050 60  0001 C CNN
+F 3 "" H 7950 12050 60  0001 C CNN
+	1    8150 11800
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
