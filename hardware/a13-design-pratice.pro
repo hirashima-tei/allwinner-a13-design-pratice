@@ -1,4 +1,4 @@
-update=2018/2/26 上午 01:24:33
+update=2018/2/27 下午 08:24:37
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,13 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=a13-design-pratice
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=C:/Users/shengwen/Documents/GitHub/allwinner-a13-design-pratice/hardware/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
